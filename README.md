@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**VishwaaBhavsar/VishwaaBhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br><br>Full-stack and AI-powered projects using Next.js, Node.js & Flutter.<br><br>🤝 I’m looking to collaborate on<br><br>Creative web apps, hackathon ideas, and AI-based tools.<br><br>💬 Ask me about<br><br>Frontend, MERN stack, APIs, UI/UX, and project ideas.<br><br>⚡ Fun fact<br><br>I break things to learn how they work 😉
@@ -26,4 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VishwaaBhavsar&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
