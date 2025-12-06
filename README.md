@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Full-stack and AI-powered projects using Next.js, Node.js & Flutter.<br><br>🤝 I’m looking to collaborate on<br><br>Creative web apps, hackathon ideas, and AI-based tools.<br><br>💬 Ask me about<br><br>Frontend, MERN stack, APIs, UI/UX, and project ideas.<br><br>⚡ Fun fact<br><br>I break things to learn how they work 😉
+🔭 I’m currently working on<br><br>Full-stack and AI-powered projects using Next.js, Node.js.<br><br>🤝 I’m looking to collaborate on<br><br>Creative web apps, hackathon ideas, and AI-based tools.<br><br>💬 Ask me about<br><br>Frontend, MERN stack, APIs, UI/UX, and project ideas.<br><br>⚡ Fun fact<br><br>I break things to learn how they work 😉
 
 
 ## 🌐 Socials:
